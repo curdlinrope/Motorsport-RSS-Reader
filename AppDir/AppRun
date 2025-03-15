@@ -1,0 +1,6 @@
+#!/bin/bash
+APPDIR="$(dirname "$(readlink -f "$0")")"
+export LD_LIBRARY_PATH="$APPDIR/usr/lib:$LD_LIBRARY_PATH"
+export QT_PLUGIN_PATH="$APPDIR/usr/lib/qt5/plugins"
+export QML2_IMPORT_PATH="$APPDIR/usr/lib/qml"
+"$APPDIR/usr/bin/MotorsportRSS" "$@"

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Motorsport RSS
+Comment=Motorsport news RSS reader
+Exec=MotorsportRSS
+Icon=motorsportrss
+Categories=News;Sports;
+Terminal=false
+StartupNotify=true
+Keywords=motorsport;racing;news;rss; 

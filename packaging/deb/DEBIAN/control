@@ -1,0 +1,9 @@
+Package: motorsportrss
+Version: 1.0.0
+Section: news
+Priority: optional
+Architecture: amd64
+Depends: libqt5core5a, libqt5gui5, libqt5widgets5, libqt5network5, libqt5xml5, libqt5svg5
+Maintainer: Your Name <your.email@example.com>
+Description: Motorsport RSS Reader
+ A modern, cross-platform RSS feed reader for motorsport news.

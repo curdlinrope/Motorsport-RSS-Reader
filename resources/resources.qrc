@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/motorsportrss.png</file>
+        <file>icons/logo.png</file>
+        <file>logos/f1.png</file>
+        <file>logos/motogp.png</file>
+        <file>logos/wrc.png</file>
+        <file>logos/nascar.png</file>
+        <file>logos/indycar.png</file>
+        <file>logos/wec.png</file>
+        <file>logos/formula-e.png</file>
+        <file>logos/dtm.png</file>
+        <file>styles/dark.qss</file>
+    </qresource>
+</RCC> 
